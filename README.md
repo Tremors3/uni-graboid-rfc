@@ -4,7 +4,7 @@
 
 L'obiettivo principale è sviluppare e **confrontare le prestazioni** di tre diversi motori di ricerca, basati sui seguenti sistemi: **PostgreSQL**, **PyLucene**, **Whoosh**; applicati alla collezione di documenti RFC.
 
-La documentazione e le slide del progetto si trovano nella cartella: `./gestione-info/workspace/docs/`.
+La documentazione e le slide del progetto si trovano nella cartella: `./gestione-info/docs/`.
 
 <!--
 ### Struttura del Progetto 
