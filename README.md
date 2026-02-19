@@ -4,7 +4,7 @@
 
 L'obiettivo principale è sviluppare e **confrontare le prestazioni** di tre diversi motori di ricerca, basati sui seguenti sistemi: **PostgreSQL**, **PyLucene**, **Whoosh**; applicati alla collezione di documenti RFC.
 
-La documentazione e le slide del progetto si trovano nella cartella: `./gestione-info/docs/`.
+La documentazione e le slide del progetto si trovano nella cartella: `./uni-graboid-rfc/docs/`.
 
 <!--
 ### Struttura del Progetto 
@@ -12,7 +12,7 @@ La documentazione e le slide del progetto si trovano nella cartella: `./gestione
 Lo schema seguente mostra l'organizzazione generale di file e cartelle nella gerarchia del progetto, evidenziando le componenti che potrebbero interessarle maggiormente.
 
 ```bash
-gestione-info/
+uni-graboid-rfc/
 │
 ├─── graboidrfc/
 │    │
@@ -50,7 +50,7 @@ gestione-info/
 
     Sconsigliamo l'utilizzo su altri sistemi operativi, perchè non sono stati testati. Nel caso in cui non si disponga di una macchina con quei sistemi operativi, si consiglia l'uso di un **hypervisor**.
 
-2. Durante l'installazione delle dipendenze, potrebbe essere necessario eseguire occasionalmente degli script situati nella directory  `./gestione-info/scripts/`.
+2. Durante l'installazione delle dipendenze, potrebbe essere necessario eseguire occasionalmente degli script situati nella directory  `./uni-graboid-rfc/scripts/`.
 
 ### Dipendenze
 
@@ -121,7 +121,7 @@ L'obiettivo di questa fase è assicurarsi che il servizio PostgreSQL sia attivo 
     **Modifica della porta:**
 
     - [Clona](#installazione-pacchetto) il nostro repository, ma non installarlo.
-    - Apri il file `./gestione-info/graboidrfc/core/config/postgres.json`.
+    - Apri il file `./uni-graboid-rfc/graboidrfc/core/config/postgres.json`.
     - Modifica il campo `PORT_NUMBER` con il numero di porta corretto a cui PostgreSQL è in ascolto.
 
 ---
@@ -245,13 +245,13 @@ Una volta soddisfatte le dipendenze, sarà possibile procedere con l'installazio
 - **Clonare il repository GitHub**
     
     ```bash
-    git clone https://github.com/Tremors3/gestione-info.git
+    git clone https://github.com/Tremors3/uni-graboid-rfc.git
     ```
 
 - **Navigare nella cartella del progetto e installare il pacchetto**
 
     ```bash
-    cd gestione-info
+    cd uni-graboid-rfc
     pip install .
     ```
 

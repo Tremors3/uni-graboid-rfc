@@ -187,7 +187,7 @@ SPELLING CORRECTION & SYNONIMS
         - [x] (Levato il controllo dipendente da systemd).
     - [/] Una volta completata l'interfaccia grafica incorporare su github screenshots che mostrino la stessa; e che siano visibili dal README.md.
     - [x] Inserire nel tutorial di installazione del pacchetto tutti i comandi riferiti alle funzionalità che la prof vuole eseguire.
-    - [x] Specificare nel README.md dove la documentazione di progetto si trova ./gestione-info/workspace/notes/
+    - [x] Specificare nel README.md dove la documentazione di progetto si trova ./uni-graboid-rfc/workspace/notes/
 
 ### [da_fare] COMPLETARE LA PRESENTAZIONE
 
