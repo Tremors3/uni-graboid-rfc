@@ -191,8 +191,8 @@ SPELLING CORRECTION & SYNONIMS
 
 ### [da_fare] COMPLETARE LA PRESENTAZIONE
 
-- [ ] Documentazione e Suddivisione delle parti
-    - [ ] Completare la documentazione
+- [x] Documentazione e Suddivisione delle parti
+    - [x] Completare la documentazione
         --> [x] Aggiornare lista componenti gruppo.
         --> [x] Aggiornare percorsi.
         - [x] Descrizione del dataset
@@ -200,23 +200,19 @@ SPELLING CORRECTION & SYNONIMS
         - [x] Elenco delle queries
         - [x] Tipolgia Utente, Query Language utilizzati, altre features dell'interfaccia
         - [x] Motori di ricerca utilizzati (Whoosh, Pylucene, PostgreSQL)
-        - [ ] Funzioni di ranking scelte e rispettive particolarità
-            - [ ] Descrivere le funzioni di ranking custom
+        - [x] Funzioni di ranking scelte e rispettive particolarità
+            - [x] Descrivere le funzioni di ranking custom
                 (Whoosh: TF_IDF_FF, PyLucene: TFLN_PIDF, PostgreSQL: Normalization Factor)
-        - [ ] Descrizione delle metriche utilizzate
-        - [ ] Scelta delle tipologie di grafico utilizzate
-    - [ ] Suddivisione delle parti
+        - [x] Descrizione delle metriche utilizzate
+        - [x] Scelta delle tipologie di grafico utilizzate
+    - [x] Suddivisione delle parti
 
-- [ ] Presentazione
-    - [ ] Descrivi le procedure principali
-    - [ ] Disegna e Incorpora schemi sulle procedure
-    - [ ] Incorpora foto dell'interfaccia nella presentazione
-    - [ ] Seleziona ed Incorpora grafici migliori
+- [x] Presentazione
+    - [x] Descrivi le procedure principali
+    - [x] Disegna e Incorpora schemi sulle procedure
+    - [x] Incorpora foto dell'interfaccia nella presentazione
+    - [x] Seleziona ed Incorpora grafici migliori
 
 ### [da_fare] AGGIUSTARE PARAMETRI PER PRODUZIONE
 
 - [x] Impostare l'intervallo dei documenti da 2000 a 10000
-
-# OBIETTIVI
-### 1. COMPLETARE DOCUMENTAZIONE
-### 2. REALIZZARE PRESENTAZIONE
